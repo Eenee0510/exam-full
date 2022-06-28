@@ -1,0 +1,21 @@
+.header-title {
+  flex-direction: row;
+  display: flex;
+
+  justify-content: space-between;
+}
+.addBtn {
+  display: flex;
+  align-items: center;
+}
+body {
+  margin: 0 auto;
+  width: 600px;
+}
+.add-btn {
+  background-color: rgb(43, 131, 238);
+  color: #fff;
+  border: none;
+  width: 100px;
+  height: 30px;
+}
